@@ -4,8 +4,14 @@
       "titulo": "Pasta con salsa de tomate",
       "ingredientes": ["pasta", "tomate", "ajo", "aceite de oliva", "sal"],
       "pasos": "Cocina la pasta y mezcla con la salsa de tomate."
+    },
+    {
+      "id": 2,
+      "titulo": "Ensalada César",
+      "ingredientes": ["lechuga", "pollo", "queso parmesano", "aderezo César", "crutones"],
+      "pasos": "Mezcla todos los ingredientes y sirve."
     }
-  ]
+]
   
 
   
